@@ -12,6 +12,7 @@ import re
 
 
 # Global parameters
+#test
 name_column_index = 1
 
 
